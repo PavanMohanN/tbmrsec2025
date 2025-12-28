@@ -1,4 +1,4 @@
-<img width="1266" height="563" alt="An abstract rectangu" src="https://github.com/user-attachments/assets/7cce71cf-3f5e-441e-b64b-107ffab1f421" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/030b6822-0d94-427b-a81d-f20e8729741f" />
 
 *Created in May 2025*
 

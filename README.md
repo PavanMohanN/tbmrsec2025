@@ -143,7 +143,7 @@ For questions, extensions, or collaboration inquiries, please refer to the corre
 
 *Created in May 2025*
 
-*@author: Pavan Mohan Neelamraju and Akshay Pratap Singh*
+*@author: Pavan Mohan Neelamraju*
 
 *Affiliation: Indian Institute of Technology Madras*
 
